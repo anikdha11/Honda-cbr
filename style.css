@@ -1,0 +1,22 @@
+/* header-styles */
+
+.header-bg {
+    background-color: #264653;
+}
+ /* Clients-img-fliter  */
+
+.img-filter{
+    filter: grayscale(100%);
+}
+
+.scroll-bar {
+    height: 12rem;
+    width: 19.5rem;
+    overflow-y:scroll;
+    padding:1.5rem ;
+    
+}
+.min-scroll{
+    width:19.5rem;
+    height:3rem;
+}
